@@ -6,5 +6,5 @@ def torre_de_hanoi(n, origem, destino, auxiliar):
     print(f"Mova o disco {n} de {origem} para {destino}")
     torre_de_hanoi(n - 1, auxiliar, destino, origem)
 
-n_discos = 3
+n_discos = int(input("Digite a quantidade de discos: "))
 torre_de_hanoi(n_discos, "A", "C", "B")
