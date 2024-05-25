@@ -1,6 +1,6 @@
 # Projeto Torre de Hanói
 
-<img src="" />
+<img src="img/torre.jfif" />
 
 ## Descrição
 Este projeto foi desenvolvido como parte da disciplina de Organização de Computadores e Sistemas Operacionais do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE). Tem como objetivo demonstrar a execução de um algoritmo clássico, a Torre de Hanói, em linguagem de baixo nível (Assembly), em diferentes sistemas. Para um aprendizado profundo da linguagem, o docente propós esse projeto para haver um nível de abstração de baixo nível.
