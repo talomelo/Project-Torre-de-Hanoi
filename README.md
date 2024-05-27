@@ -1,7 +1,9 @@
 # Projeto Torre de Hanói
 
+<img src="" />
+
 ## Descrição
-Este projeto foi desenvolvido como parte da disciplina de Organização de Computadores e Sistemas Operacionais do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE). Tem como objetivo demonstrar a execução de um algoritmo clássico, a Torre de Hanói, em linguagem de baixo nível (Assembly), em diferentes sistemas.
+Este projeto foi desenvolvido como parte da disciplina de Organização de Computadores e Sistemas Operacionais do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE). Tem como objetivo demonstrar a execução de um algoritmo clássico, a Torre de Hanói, em linguagem de baixo nível (Assembly), em diferentes sistemas. Para um aprendizado profundo da linguagem, o docente propós esse projeto para haver um nível de abstração de baixo nível.
 
 ## Equipe
 - Ítallo Augusto
@@ -21,5 +23,7 @@ Para a execução do projeto, utilizamos o compilador proposto pelo professor, d
 2. Copie o código fonte da Torre de Hanói (`torre_de_hanoi.asm`) para o editor.
 3. Compile e execute o código no compilador online.
 4. Siga as instruções fornecidas pelo programa para inserir o número de discos e observe a solução da Torre de Hanói.
+
+Obs: deixamos um exemplo da torre de hanói em python para fins estudantis.
 
 
