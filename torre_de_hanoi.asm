@@ -28,10 +28,10 @@ section .text
 
 _start:
     ; Exibindo o menu para o usuário
-    mov edx, len_menu
-    mov ecx, menu
-    mov ebx, STDOUT
-    mov eax, SYS_WRITE
+    mov edx, len_menu;Usado para contagem
+    mov ecx, menu;Armazenar argumentos para chamadas de sistema
+    mov ebx, STDOUT;Armazenar argumentos para chamadas de sistema
+    mov eax, SYS_WRITE;Armazenar valores de retorno de função
     int 0x80
 
     ; Lendo a entrada do usuário
