@@ -24,6 +24,9 @@ Para a execução do projeto, utilizamos o compilador proposto pelo professor, d
 3. Compile e execute o código no compilador online.
 4. Siga as instruções fornecidas pelo programa para inserir o número de discos e observe a solução da Torre de Hanói.
 
+## Conclusão
+O desenvolvimento do projeto foi de grande importância, pois nos permitiu compreender como as máquinas funcionam por meio de uma linguagem que é pouco utilizada e conhecida nos dias atuais. Para facilitar o aprendizado, utilizamos recursos bastante comuns em outras tecnologias. Um exemplo muito utilizado é a recursão, um método bastante poderoso na hora de criação de códigos mais sotifiscado.
+
 Obs: deixamos um exemplo da torre de hanói em python para fins estudantis.
 
 
