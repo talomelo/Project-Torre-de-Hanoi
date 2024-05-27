@@ -21,7 +21,7 @@ section .data
 
 section .bss
     ; Buffer para armazenar a entrada do usuário
-    disk resb 5
+    disk resb 2
 
 section .text
     global _start
@@ -38,7 +38,7 @@ _start:
     mov ecx, disk            ; Endereço para armazenar a entrada
     mov ebx, STDIN           ; Descritor de arquivo de entrada (teclado)
     mov eax, SYS_READ        ; Chamada de sistema para ler
-    mov edx, 5               ; Lendo até 5 caracteres
+    mov edx, 2               ; Lendo até 2 caracteres
     int 0x80
 
     ; Convertendo a entrada de string para número
