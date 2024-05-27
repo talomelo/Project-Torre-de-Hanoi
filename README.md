@@ -3,7 +3,7 @@
 <img src="img/torre.jfif" />
 
 ## Descrição
-Este projeto foi desenvolvido como parte da disciplina de Organização de Computadores e Sistemas Operacionais do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE). Tem como objetivo demonstrar a execução de um algoritmo clássico, a Torre de Hanói, em linguagem de baixo nível (Assembly), em diferentes sistemas. Para um aprendizado profundo da linguagem, o docente propós esse projeto para haver um nível de abstração de baixo nível.
+Este projeto foi desenvolvido como parte da disciplina de Organização de Computadores e Sistemas Operacionais do Centro de Informática (CIn) da Universidade Federal de Pernambuco (UFPE). Tem como objetivo demonstrar a execução de um algoritmo clássico, a Torre de Hanói, em linguagem de baixo nível (Assembly), em diferentes sistemas. O professor propôs este projeto de aprendizado profundo da linguagem para trabalhar com um baixo nível de abstração, o que permitirá aos alunos ter um maior controle sobre o processo de aprendizado e uma melhor compreensão dos mecanismos subjacentes da linguagem.
 
 ## Equipe
 - Ítallo Augusto
